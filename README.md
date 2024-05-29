@@ -1,5 +1,7 @@
 FINAL PROJECT NEXT JS TALENTHUB CLASS BATCH 13 - MUHAMMAD ASYRAF MUFADHDHAL
 
+![image](https://github.com/AsyrafMufadhdhal/final_nextjs/assets/101494475/777ceec7-12cd-4ec7-8a4e-440bf5518c57)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
